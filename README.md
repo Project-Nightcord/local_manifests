@@ -30,3 +30,8 @@
 # Notes
 - If you're going to build ROM which is supported here, Put the corresponding manifest file in `.repo/local_manifests`, re-run `repo sync`, and apply all the patches that's given in this repo.
 - for Mi8937 & Mi439 use this : https://github.com/Mi-Thorium
+- vince and ysl there are 4 submodules in the kernel "KernelSU, techpack/xiaomi-titanium, techpack/audio-legacy, drivers/staging/prima"
+  run :
+  ```bash
+  git submodule update --init --recursive
+  ```
