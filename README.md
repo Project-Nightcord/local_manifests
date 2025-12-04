@@ -21,9 +21,9 @@
 
 ## `uter` - Xiaomi UTER (MSM8953)
 
-## `ysl` - Xiaomi Xiaomi Redmi Y2 / Xiaomi Redmi S2 (MSM8953)
+## `ysl` - Redmi Y2 / Xiaomi Redmi S2 (MSM8953)
 
-## `onc` - Xiaomi Xiaomi Redmi Y3 / Xiaomi Redmi 7 (SDM632)
+## `onc` - Redmi Y3 / Xiaomi Redmi 7 (SDM632)
 
 ## `msm8937` - Qualcomm MSM8937 (MSM8937)
 
